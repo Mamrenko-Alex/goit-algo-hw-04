@@ -36,8 +36,6 @@ Below is a graphical representation of the performance of each sorting algorithm
 
 ![Sorting Performance Graph](/data.jpg)
 
-_(Replace `path/to/your/screenshot.png` with the actual path to your screenshot.)_
-
 ## Instructions to Run the Experiment
 
 To reproduce the experiment on your computer, follow these steps:
